@@ -1,0 +1,1 @@
+update Tab_Pedido set Estado = 0
